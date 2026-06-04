@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Dalibor 👋
 
-<!--
-**DaliborPekar/DaliborPekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* Second-year technical high school student from Croatia
+* Learning C# and software development
+* Interested in computer science, cybersecurity, networking, and digital forensics
+* Building projects to improve my programming and problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* C#
+* Git & GitHub
+* Unity (as a hobby)
+* Computer science fundamentals
+
+## Goals
+
+* Study Computer Science at TVZ
+* Develop strong programming fundamentals
+* Learn more about cybersecurity and information security
+* Build a portfolio of projects and practical skills
+
+## Projects
+
+Here you can find some of the projects I've built while learning programming. I use GitHub to track my progress and document what I learn.
+
+## Technologies
+
+* C#
+* .NET
+* Unity
+* Git
+* GitHub
+
+## Contact
+
+Feel free to explore my repositories and follow my learning journey.
