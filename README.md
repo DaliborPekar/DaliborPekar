@@ -2,7 +2,7 @@
 
 ## About Me
 
-* Second-year technical high school student from Croatia
+* Third-year technical high school student from Croatia
 * Learning C# and software development
 * Interested in computer science, cybersecurity, networking, and digital forensics
 * Building projects to improve my programming and problem-solving skills
